@@ -16,3 +16,7 @@ class Smartylib_Test extends CI_Controller {
 		echo $this->unit->report();
 	}
 }
+
+/* End of file smartylib_test.php */
+/* Location: ./application/controllers/smartylib_test.php */
+
