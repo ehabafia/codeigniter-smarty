@@ -19,4 +19,3 @@ class Smartylib_Test extends CI_Controller {
 
 /* End of file smartylib_test.php */
 /* Location: ./application/controllers/smartylib_test.php */
-
