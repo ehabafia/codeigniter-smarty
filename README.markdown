@@ -17,7 +17,7 @@ class FooController extends CI_Controller {
 	function bar() {
 		$this->load->library('smartylib');
 		$this->smartylib->assign('baz', 'qux');
-		$this->smartylib->render('quux.tpl');
+		$this->smartylib->display('quux.tpl');
 	}
 }
 ```
